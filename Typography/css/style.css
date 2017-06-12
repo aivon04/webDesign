@@ -1,0 +1,17 @@
+h1{
+	font-size: 120px;
+	text-align: center;
+	margin-top: 50px;
+	font-family: cursive;
+	letter-spacing: 5px; /*字母之間距離*/  
+	color: lightgreen;
+	/*text-transform: lowercase;     可以改變字體大小寫*/
+	text-shadow: 5px 10px 10px yellow; /*1.有多右 2.有多下 3.有多模糊 4.顏色*/
+	/*text-shadow: 0 1px 0 red  文字下面畫紅線*/
+	/*text-shadow:
+		5px 10px 10px yellow,
+		5px 10px 10px blue;         隔行用逗號 則變成多個陰影*/
+	font-variant: small-caps; /*變成小的capital字母*/
+
+	/* https://fonts.google.com/ */
+}
