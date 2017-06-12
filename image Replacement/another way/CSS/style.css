@@ -1,0 +1,7 @@
+
+h1{
+	background: url(../img/kid.png) no-repeat;
+	text-indent: -9999px; <!--text本身會向左移動到沒有-->
+	width: 230px;   <!--顯示完整圖片大小-->
+	height: 273px;
+}
